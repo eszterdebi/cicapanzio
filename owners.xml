@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<owners>
+    <owner>
+        <name>Debi Sztella</name>
+        <birthdate>2001-08-24</birthdate>
+        <phone>705295298</phone>
+        <cat>Kókusz</cat>
+    </owner>
+    <owner>
+        <name>Vicc Elek</name>
+        <birthdate>2003-02-03</birthdate>
+        <phone>301234567</phone>
+        <cat>Tacsi</cat>
+    </owner>
+    <owner>
+        <name>Kaktuszné Cserepes Virág</name>
+        <birthdate>1988-08-18</birthdate>
+        <phone>208880818</phone>
+        <cat>Plüssi</cat>
+    </owner>
+    <owner>
+        <name>Kalap Pál</name>
+        <birthdate>1998-08-14</birthdate>
+        <phone>309876543</phone>
+        <cat>Kormi</cat>
+    </owner>
+    <owner>
+        <name>Móka Miklós</name>
+        <birthdate>1995-09-16</birthdate>
+        <phone>202424242</phone>
+        <cat>Bandi</cat>
+    </owner>
+    <owner>
+        <name>Bubolói Bubala</name>
+        <birthdate>1982-10-31</birthdate>
+        <phone>702223333</phone>
+        <cat>Bandi</cat>
+    </owner>
+</owners>

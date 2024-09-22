@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cats>
+    <cat>
+        <name>Kókusz</name>
+        <breed>brit rövidszőrű</breed>
+        <age>7</age>
+        <owner>Debi Sztella</owner>
+    </cat>
+    <cat>
+        <name>Tacsi</name>
+        <breed>munchkin</breed>
+        <age>2</age>
+        <owner>Vicc Elek</owner>
+    </cat>
+    <cat>
+        <name>Plüssi</name>
+        <breed>perzsa</breed>
+        <age>4</age>
+        <owner>Kaktuszné Cserepes Virág</owner>
+    </cat>
+    <cat>
+        <name>Kormi</name>
+        <breed>házi macska</breed>
+        <age>5</age>
+        <owner>Kalap Pál</owner>
+    </cat>
+    <cat>
+        <name>Bandi</name>
+        <breed>skót lógófülű</breed>
+        <age>3</age>
+        <owner>Móka Miklós</owner>
+    </cat>
+    <cat>
+        <name>Bandi</name>
+        <breed>orosz kék</breed>
+        <age>1</age>
+        <owner>Bubolói Bubala</owner>
+    </cat>
+</cats>
